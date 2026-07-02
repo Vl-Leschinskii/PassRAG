@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/index/
+scripts/test_out.txt
+scripts/inspect_out.txt
+*.pptx
+Сущности.png
